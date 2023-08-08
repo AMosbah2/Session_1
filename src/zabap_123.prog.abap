@@ -6,4 +6,4 @@
 REPORT ZABAP_123.
 
 
-WRITE ' Hello abapGit'.
+WRITE ' Hello abapGit for Pull'.
